@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="moonBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="55%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#1a73e8" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#moonBg)" />
+  <g transform="translate(86, 86) scale(14.16)">
+    <path
+      d="M20.354 15.354A9 9 0 0 1 8.646 3.646 9.003 9.003 0 0 0 12 21a9.003 9.003 0 0 0 8.354-5.646Z"
+      fill="#ffffff"
+    />
+    <path
+      d="M17.5 4.5L18.15 6.35L20 7L18.15 7.65L17.5 9.5L16.85 7.65L15 7L16.85 6.35L17.5 4.5Z"
+      fill="#ffffff"
+      opacity="0.95"
+    />
+  </g>
+</svg>

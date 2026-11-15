@@ -1,0 +1,6 @@
+{
+  "name": "Roblox Launcher Pro",
+  "description": "Next-generation Roblox client launcher featuring Google Material You aesthetics, unified search for games, user profiles, and community content, live server browser, and real account system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
